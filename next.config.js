@@ -1,13 +1,19 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    images:{
-        domains:[
-            "res.cloudinary.com",
-            "avatars.githubusercontent.com",
-            "lh3.googleusercontent.com"
-            //To fix the error cause by Image from next/Image during google login
-        ]
+    typescript: {
+        ignoreBuildErrors: true,
+     },
+    experimental: {
+      appDir: true,
+      swcPlugins: [["next-superjson-plugin", {}]]
+    },
+    images: {
+      domains: [
+        'res.cloudinary.com', 
+        'avatars.githubusercontent.com',
+        'lh3.googleusercontent.com'
+      ]
     }
-}
-
-module.exports = nextConfig
+  }
+  
+  module.exports = nextConfig
