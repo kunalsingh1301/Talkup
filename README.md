@@ -1,4 +1,6 @@
-deployed at: https://chat-app-two-gules.vercel.app/
+# Just Register and Enjoy
+## Deployed at: 
+   https://chat-app-two-gules.vercel.app/
 # Chat App
 
 ## Overview
@@ -70,4 +72,4 @@ This project relies on the following third-party libraries and APIs:
 
 Please ensure that the library versions specified are compatible with each other to avoid potential issues.
 
-# Just Register and Enjoy
+
