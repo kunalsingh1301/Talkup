@@ -41,6 +41,9 @@ This project, named `chat_app`, is a real-time chat application built with Next.
 1. **Installation:**
    ```bash
    npm install
+2. **Run:**
+   ```bash
+   npm run dev
 ## Third-Party Libraries and APIs
 
 This project relies on the following third-party libraries and APIs:
@@ -67,4 +70,4 @@ This project relies on the following third-party libraries and APIs:
 
 Please ensure that the library versions specified are compatible with each other to avoid potential issues.
 
-On HOW TO RUN
+# Just Register and Enjoy
