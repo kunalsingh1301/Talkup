@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 .yarn/install-state.gz
+/.env
 
 # testing
 /coverage
@@ -34,3 +35,18 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# DATABASE_URL="mongodb+srv://kunalsingh:kunalsingh@cluster0.wiz3iej.mongodb.net/test"
+# NEXTAUTH_SECRET="NextAuth_SecrET"
+
+# GITHUB_ID=9e29be765a268fe8127d
+# GITHUB_SECRET=61c43133f39705580286fdd1038a58911c459cc3
+
+# GOOGLE_ID=877007547178-pke9pjt77jjfelng8rniqp89he42agat.apps.googleusercontent.com
+# GOOGLE_SECRET=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
+
+# NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME = dvxosgmoi
+
+# NEXT_PUBLIC_PUSHER_APP_KEY=86748548133699db46e8
+# PUSHER_APP_ID=1736216
+# PUSHER_SECRET =7c4f70b004566815cc49
